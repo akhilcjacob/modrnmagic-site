@@ -5,7 +5,6 @@
 Key facts:
 
 - Founder: Akhil Jacob, software engineer. Portfolio: https://akhilcjacob.com/
-- Legal name: Modrn Magic LLC
 - Contact: hello@modrnmagic.app
 - Mobile apps are built with Flutter. Web products use Next.js and Firebase.
 - Store listings name the seller as Akhil Jacob.
