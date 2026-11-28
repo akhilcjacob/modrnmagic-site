@@ -41,5 +41,8 @@
   "outcome": null,
   "cycle": null,
   "flagship": false,
-  "legal": {}
+  "legal": {},
+  "meta": {
+    "page": "Quorum was a 2023 chat app with AI personas, plus a landing page, built by Modrn Magic. It did not ship, and this page keeps a record of what was built."
+  }
 }

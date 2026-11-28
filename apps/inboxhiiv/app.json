@@ -58,7 +58,10 @@
     "writing": "https://engineering.akhilcjacob.com/building-inboxhiive",
     "source": null
   },
-  "price": null,
+  "price": {
+    "web": "0",
+    "currency": "USD"
+  },
   "wasOn": [],
   "icon": "icon.png",
   "color": "#ffffff",
@@ -95,5 +98,8 @@
   "legal": {
     "privacy": "https://inboxhiive.com/privacy",
     "terms": "https://inboxhiive.com/terms"
+  },
+  "meta": {
+    "page": "InboxHiive turns podcast episodes into readable newsletters. Follow your shows and get a summary, key insights, and a chapter breakdown of new episodes."
   }
 }

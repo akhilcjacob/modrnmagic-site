@@ -42,5 +42,8 @@
   "outcome": null,
   "cycle": null,
   "flagship": false,
-  "legal": {}
+  "legal": {},
+  "meta": {
+    "page": "QuietDesk is a minimal Android launcher prototype. It swaps the home screen for a clock and a short list of favorite apps, with search for everything else."
+  }
 }

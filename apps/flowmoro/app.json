@@ -106,5 +106,10 @@
   "legal": {
     "privacy": "privacy/",
     "terms": "tos/"
+  },
+  "meta": {
+    "page": "Flowmoro is a Pomodoro focus timer for iPhone and Android. It keeps the screen quiet, lets you set your own work and break lengths, and collects no data.",
+    "privacy": "The privacy policy for Flowmoro, the Pomodoro timer for iPhone and Android by Modrn Magic: what the app collects, how it is used, and who to contact.",
+    "terms": "The terms of service for Flowmoro, the Pomodoro timer for iPhone and Android by Modrn Magic: the rules for using the app and how to contact support."
   }
 }

@@ -75,5 +75,8 @@
   "outcome": null,
   "cycle": null,
   "flagship": false,
-  "legal": {}
+  "legal": {},
+  "meta": {
+    "page": "Nookly OS is a back office for trade businesses, in development: leads, estimates, jobs, scheduling, and invoices, run from your own Claude or Codex."
+  }
 }

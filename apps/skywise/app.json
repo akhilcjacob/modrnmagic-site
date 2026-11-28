@@ -107,5 +107,11 @@
     "privacy": "privacy/",
     "terms": "tos/",
     "deleteAccount": "privacy/delete-account/"
+  },
+  "meta": {
+    "page": "SkyWise is a free weather app for iPhone and Android with a built-in AI assistant. Check the hourly forecast, then ask plain questions about your plans.",
+    "privacy": "The privacy policy for SkyWise, the AI weather app for iPhone and Android by Modrn Magic: what data the app collects, how it is used, and who to contact.",
+    "terms": "The terms of service for SkyWise, the AI weather app for iPhone and Android by Modrn Magic: the rules for using the app, its assistant, and your account.",
+    "deleteAccount": "How to delete your SkyWise account and its data: email the Modrn Magic support team at support@modrnmagic.app and ask for your account to be deleted."
   }
 }

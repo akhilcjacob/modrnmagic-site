@@ -66,5 +66,6 @@
   "closing": {
     "title": "No account. No tracking.",
     "text": "Flowmoro does not collect or share any data. Notifications stay on your device."
-  }
+  },
+  "metaDescription": "Flowmoro is a simple, minimalist Pomodoro timer for iPhone and Android. One timer, one button, your own work and break lengths, and nothing else on screen."
 }

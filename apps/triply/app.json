@@ -43,5 +43,8 @@
   "outcome": null,
   "cycle": null,
   "flagship": false,
-  "legal": {}
+  "legal": {},
+  "meta": {
+    "page": "Triply is a trip planning prototype by Modrn Magic. It builds day plans and multi-day itineraries from how you get around, your budget, and what you like."
+  }
 }

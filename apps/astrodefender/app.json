@@ -106,5 +106,10 @@
   "legal": {
     "privacy": "privacy/",
     "terms": "tos/"
+  },
+  "meta": {
+    "page": "Astro Defender is a free arcade space shooter for iPhone and Android. Hold the center, rotate, and shoot enemies before they reach Earth. Plays offline.",
+    "privacy": "The privacy policy for Astro Defender, the arcade space shooter by Modrn Magic: what the game collects, including ads and analytics, and how it is used.",
+    "terms": "The terms of service for Astro Defender, the arcade space shooter for iPhone and Android by Modrn Magic: the rules for playing and how to reach support."
   }
 }
